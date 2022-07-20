@@ -1,5 +1,3 @@
-## 🚗ドライブだいすき宮原さん
-
 ### Pythoner???
 
 PHP,JS,Python,flutter(Dart),Swift
