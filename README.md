@@ -1,6 +1,6 @@
 ### Pythoner???
 
-PHP,JS,Python,flutter(Dart),Swift
+PHP,JS,Node,Python,flutter(Dart),Swift Infra
 
 <p align="left"> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogehogeBrav&layout=compact&count_private=true&show_icons=true&theme=onedark" />
