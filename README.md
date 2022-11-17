@@ -1,6 +1,7 @@
 ## Dart'er???
 
-PHP,JS,Node,Python,flutter(Dart),Swift,C# Infra
+PHP,JS,Node,Python,flutter(Dart),Swift,C#,Java & Infra  
+USEFUL <------------------------------------
 
 <p align="left"> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats-ashen-omega.vercel.app/api/top-langs/?username=hogehogeBrav&layout=compact&count_private=true&show_icons=true&theme=onedark&hide=css,html" />
