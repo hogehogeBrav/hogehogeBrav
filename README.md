@@ -4,8 +4,10 @@ PHP,JS,Node,Python,flutter(Dart),Swift,C#,Java & Infra
 USEFUL <------------------------------------
 
 <p align="left"> 
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats-ashen-omega.vercel.app/api/top-langs/?username=hogehogeBrav&layout=compact&count_private=true&show_icons=true&theme=onedark&hide=css,html" />
-  <img alt="github stats" height="160px" src="https://github-readme-stats-ashen-omega.vercel.app/api?username=hogehogeBrav&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+<!--   <img alt="Top Langs" height="160px" src="https://github-readme-stats-ashen-omega.vercel.app/api/top-langs/?username=hogehogeBrav&layout=compact&count_private=true&show_icons=true&theme=onedark&hide=css,html" /> -->
+<!--   <img alt="github stats" height="160px" src="https://github-readme-stats-ashen-omega.vercel.app/api?username=hogehogeBrav&count_private=true&show_icons=true&show_icons=true&theme=onedark" /> -->
+   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogehogeBrav&layout=compact&count_private=true&show_icons=true&theme=onedark&hide=css,html" />
+    <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=hogehogeBrav&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 ## Dev Env
