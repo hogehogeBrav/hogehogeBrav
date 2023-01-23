@@ -1,6 +1,6 @@
 ## Dart'er???
 
-PHP,JS,Node,Python,flutter(Dart),Swift,C#,Java & Infra  
+PHP,JS(Node),Python,flutter(Dart),Swift,C#,Java & Infra  
 USEFUL <------------------------------------
 
 <p align="left"> 
