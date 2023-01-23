@@ -12,7 +12,7 @@ USEFUL <------------------------------------
 
 ## Dev Env
 - macOS 13.0 Ventura (M1 MacBookAir, 16GB)
-- Windows 11 Pro x64 (Ryzen9 3900X,Radeon 5700XT, DDR4 16GB)
+- Windows 11 Pro x64 (Ryzen9 3900X,Radeon RX5700XT, DDR4 16GB)
 
 ## Server
 - Windows Server 2022 Datacenter x64 (Corei7 5820K, GeForce GTX680(?), DDR4 32GB)
