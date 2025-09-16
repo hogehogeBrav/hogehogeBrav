@@ -1,4 +1,4 @@
-## Dart'er???
+## どこかのInfra EG
 
 PHP,JS(Node),Python,flutter(Dart),Swift,C#,Java & Infra  
 USEFUL <------------------------------------
@@ -11,12 +11,11 @@ USEFUL <------------------------------------
 </p>
 
 ## Dev Env
-- macOS 13.0 Ventura (M1 MacBookAir, 16GB)
-- Windows 11 Pro x64 (Ryzen9 3900X,Radeon RX5700XT, DDR4 16GB)
+- Windows 11 Pro x64 (Ryzen9 3900X,Radeon RX9070XT, DDR4 64GB)
+- macOS 26.0 Tahoe (M1 MacBookAir, 16GB)
 
-## Server
-- Windows Server 2022 Datacenter x64 (Corei7 5820K, GeForce GTX680(?), DDR4 32GB)
-
+## Sub
+- Windows 11 Pro x64 (Corei7 5820K, Radeon RX480 8GB, DDR4 32GB)
 
 <!--
 **hogehogeBrav/hogehogeBrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
